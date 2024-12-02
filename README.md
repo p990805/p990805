@@ -3,13 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Juchan's%20GitHub&fontSize=50&animation=fadeIn" alt="Welcome to Juchan's GitHub"/>
 </div>
 
+<h3 align="center">🙋‍♂️ About Me 🙋‍♂️</h3>
+<p align="center">
+  안녕하세요! 저는 백엔드 및 프론트엔드 개발에 관심이 많은 개발자 Juchan입니다.<br>
+  현재 <strong>Spring</strong>과 <strong>React</strong>를 중점적으로 공부하고 있으며, 끊임없이 성장하기 위해 노력 중입니다!🔥 <br>
+</p>
+
 <!--내용-->
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
@@ -36,8 +44,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </div>
+
 
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
