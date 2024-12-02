@@ -2,6 +2,8 @@
 
 <!--
 **p990805/p990805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Juchan's%20GitHub&fontSize=50&animation=fadeIn)
+
 
 Here are some ideas to get you started:
 
