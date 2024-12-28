@@ -54,6 +54,9 @@
   <a href="mailto:p990805@gmail.com">
     <img src="https://img.shields.io/badge/p990805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://p990805.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
 </div>
 
 
