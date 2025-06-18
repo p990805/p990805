@@ -17,10 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p990805&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 <!--내용-->
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
